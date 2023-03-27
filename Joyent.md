@@ -19,18 +19,16 @@ It can be used on UNIX to it's full capability. It also works on LINUX and other
         Triton Object Storage is an open source project or software. It is because it uses SmartOS. SmartOS is an operating system which was primarily made to use open source software.
         
  * **Uses of Triton Object Storage: -**
-
-         1. To store unstructured data.
+         1. To store **unstructured data**.
          2. It can process & store big data.
-         3. Can be used as a media storage.
-         4. Used as a secure cloud storage.
+         3. Can be used as a **media storage**.
+         4. Used as a **secure** cloud storage.
       
  * **Features of Triton Object Storage: -**
- 
-         1. Supported on multiple operating system.
-         2. Provides high security.
-         3. Provides with backup capabilities.
-         4. It is an open source software.
+         1. Supported on **multiple operating system**.
+         2. Provides **high security**.
+         3. Provides with **backup** capabilities.
+         4. It is an **open source software**.
        
  * **Architecture Layers of Triton Object Storage: -**
        1. Hardware Layer
